@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on DevOps
+- 🔭 I’m currently working on DevOps,Data and AIML
 - 🌱 I’m currently learning Designing ML Systems,ML System Design, AI Engineering
 - 👯 I’m looking to collaborate on AI/ML,DevOPs,Data
 - 📫 How to reach me: navin0306kumar@gmail.com
